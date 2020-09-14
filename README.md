@@ -1,6 +1,8 @@
-# FizzbuzzOClock
+# FizzBuzz O' Clock
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+This is a quick project to try out AngularJS.
+
+![Screenshot](https://raw.githubusercontent.com/nhtranngoc/fizzbuzz-o-clock/master/screenshot.PNG)
 
 ## Development server
 
