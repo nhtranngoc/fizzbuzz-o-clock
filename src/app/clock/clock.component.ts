@@ -23,6 +23,7 @@ export class ClockComponent implements OnInit {
   }
 
   fizzbuzz(n: number): string {
+    let n_string: string = n < 10 ? '0' + n.toString() : n.toString();
     let res = '';
 
     if (n % 3 == 0) {
@@ -33,7 +34,7 @@ export class ClockComponent implements OnInit {
       res += 'Buzz'
     }
 
-    res = (res === '') ? n.toString() : res;
+    res = (res === '') ? n_string : res;
 
     return res;
   }
