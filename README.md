@@ -1,8 +1,23 @@
 # FizzBuzz O' Clock
 
-This is a quick project to try out AngularJS.
+Do you ever get tired of interviewers asking if you know Fizz Buzz?
 
-![Screenshot](https://raw.githubusercontent.com/nhtranngoc/fizzbuzz-o-clock/master/screenshot.PNG)
+Ever wonder to yourself "What fizzbuzz time is it"?
+
+Struggle to remember if 30 was Fizz, Buzz or FizzBuzz?
+
+Wait no more
+
+https://clock.namfromnam.com/
+
+Introducing the FizzBuzz O'Clock
+
+With this by your side, you will always know what time it is in Fizz Buzz, all the time!
+
+![Screenshot](https://raw.githubusercontent.com/nhtranngoc/fizzbuzz-o-clock/master/src/screenshot.PNG)
+
+## HexClock Allegations
+Please check out https://www.jacopocolo.com/hexclock/ for the original design. I only want to spend an hour on this and shamelessly stole his layout. Please forgive me as I am only human.
 
 ## Development server
 
