@@ -16,6 +16,10 @@ With this by your side, you will always know what time it is in Fizz Buzz, all t
 
 ![Screenshot](https://raw.githubusercontent.com/nhtranngoc/fizzbuzz-o-clock/master/src/screenshot.PNG)
 
+## But Nam, isn't this overkill?
+
+This project is the coding equivalent of my grandma using her family heirloom cleaver to chop a single sardine. So, yes. But the purpose of this exercise is to learn Angular by building a small toy project. At some point in the future I will probably add a `lite` version with a single `index.html`. Alas, but that is not today. 
+
 ## HexClock Allegations
 Please check out https://www.jacopocolo.com/hexclock/ for the original design. I only want to spend an hour on this and shamelessly stole his layout. Please forgive me as I am only human.
 
