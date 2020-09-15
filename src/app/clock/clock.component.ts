@@ -17,8 +17,8 @@ export class ClockComponent implements OnInit {
   }
 
   formatTime(time: Date): string {
-    return this.fizzbuzz(time.getHours()) + ':' +
-      this.fizzbuzz(time.getMinutes()) + ':' +
+    return this.fizzbuzz(time.getHours()) + ':\u200B' +
+      this.fizzbuzz(time.getMinutes()) + ':\u200B' +
       this.fizzbuzz(time.getSeconds());
   }
 
